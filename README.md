@@ -51,7 +51,7 @@ The screenshots below will showcase selected SQL queries from the project, demon
 
 ![CTE and Window Functions](sql-pat.png)
 
-[View the Complete SQL Project File](Abigail Abilawon Week 6.sql)
+[View the Complete SQL Project File](abigail-abilawon.sql)
 
 ## Database Overview
 

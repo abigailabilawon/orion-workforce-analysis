@@ -41,17 +41,17 @@ The screenshots below will showcase selected SQL queries from the project, demon
 
 ### 1. Basic SQL Analysis
 
-![Basic SQL Query](images/sql_basic.png)
+![Basic SQL Query](basic-sql.png)
 
 ### 2. Joins and Subqueries
 
-![SQL Joins and Subqueries](images/sql_joins.png)
+![SQL Joins and Subqueries](sql-join.png)
 
 ### 3. Advanced SQL Analysis
 
-![CTE and Window Functions](images/sql_advanced.png)
+![CTE and Window Functions](sql-pat.png)
 
-[View the Complete SQL Project File](YOUR_SQL_FILE_LINK)
+[View the Complete SQL Project File](Abigail Abilawon Week 6.sql)
 
 ## Database Overview
 

@@ -1,6 +1,6 @@
 # Orion Data Systems – Workforce Analytics
 
-![Orion Data Systems Header](orion_header.png)
+![Orion Data Systems Header](sql-header.png)
 
 ## Project Overview
 
